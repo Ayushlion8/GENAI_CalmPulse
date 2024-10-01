@@ -64,7 +64,7 @@ We are Computer Science students from IIIT Lucknow in our Pre-Final year, and th
 2. **Navigate to the project directory:**
 
     ```bash
-    cd CalmPulse
+    cd GENAI_CalmPulse
     ```
 
 3. **Install dependencies:**
