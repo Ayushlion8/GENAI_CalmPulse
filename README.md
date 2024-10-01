@@ -51,14 +51,14 @@ Meet the incredible team behind CalmPulse:
 </table>
 
 ## About Us 
-We are Computer Science students from IIIT Lucknow in our sophomore year, and this project has been a significant milestone for us in improving our concepts and overcoming hurdles.
+We are Computer Science students from IIIT Lucknow in our Pre-Final year, and this project has been a significant milestone for us in improving our concepts and overcoming hurdles.
 
 ## Installation ⚙️
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/maskboyAvi/CalmPulse
+    git clone https://github.com/Ayushlion8/GENAI_CalmPulse
     ```
 
 2. **Navigate to the project directory:**
