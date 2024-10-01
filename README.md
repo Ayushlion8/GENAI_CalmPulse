@@ -46,7 +46,7 @@ Meet the incredible team behind CalmPulse:
 <table>
 	<tr>
 		<td align="center"><img src="https://i.imgur.com/QKfdOPT.png" width="120px" height="120px"><br /><sub><b>Aviral Katiyar</b></sub><br/><a href="https://github.com/maskboyAvi"></a></td>
-		<td align="center"><img src="https://avatars.githubusercontent.com/u/123597196?v=4" objectFit:"cover" width="120px" height="120px"><br /><sub><b>Kashish Garg</b></sub><br/><a href="https://github.com/Celebi07"></a></td>
+        <td align="center"><img src="https://i.imgur.com/IoenZo1.jpg" width="120px" height="120px" objectFit:"cover"><br /><sub><b>Ayush Gupta</b></sub><br/><a href="https://github.com/Ayushlion8"></a></td>
 	</tr>
 </table>
 
