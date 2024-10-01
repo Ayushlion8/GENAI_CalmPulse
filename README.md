@@ -17,7 +17,7 @@ You can also clone the repository and run the project in your local environment 
 
 https://github.com/maskboyAvi/CalmPulse/assets/123640350/5de99937-3ca8-4739-a98a-d9317decc7a4
 
-Check out complete demo at https://youtu.be/16vkz0aOjc0
+Check out complete demo at https://youtu.be/Gu4wTxKBQY0
 
 ## Why Choose Us
 
